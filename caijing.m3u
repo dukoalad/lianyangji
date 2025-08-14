@@ -41,13 +41,15 @@ https://stream.iptv-search.com/main.php?id=BBC+Earth+Lifestyle&t=1753977057&toke
 https://stream.iptv-search.com/main.php?id=%E4%B8%89%E7%AB%8B%E5%8F%B0%E6%B9%BE&t=1753977057&token=0434b979ad4e606265b4174a06227da2
 #EXTINF:-1 group-title="国际",BBC World News
 https://stream.iptv-search.com/main.php?id=BBC+World+News&t=1753977057&token=fe4bf78746dcfd8ad2f8a8959b96fdb0
-#EXTINF:-1 group-title="国际",澳视澳门
-https://stream.iptv-search.com/main.php?id=%E6%BE%B3%E8%A7%86%E6%BE%B3%E9%97%A8&t=1752825547&token=9a7df7660db94345b3fe0227917847b6
-#EXTINF:-1 group-title="国际",PBS KET2
-https://stream.iptv-search.com/main.php?id=PBS+KET2+%28720p%29&t=1753977057&token=e6c8ebcaa75a08e4a8e98a7dcd5540fc
-#EXTINF:-1 group-title="国际",PBS KET Louisville KY
-https://stream.iptv-search.com/main.php?id=PBS+KET+Louisville+KY+%28WKMJ-TV%29+%28720p%29&t=1753977057&token=84e7a5c5a3d8a9c120f368fea00666f6
 #EXTINF:-1 group-title="国际",BBC TopGear
 https://stream.iptv-search.com/main.php?id=BBC+Top+Gear+Germany+%281080p%29&t=1753977057&token=baab6706d4e9d8aa8592c7de3ce8214f
 #EXTINF:-1 group-title="国际",Nickelodeon
 https://stream.iptv-search.com/main.php?id=Nickelodeon&t=1753977057&token=b356402249d82eea5b2dfaeec88b9528
+#EXTINF:-1 group-title="国际",Cartoon Network
+https://stream.iptv-search.com/main.php?id=Cartoon+Network&t=1753977057&token=e3f452499c84d26c46fbcde7d4212a61
+#EXTINF:-1 group-title="国际",Cartoon Classics
+https://stream.iptv-search.com/main.php?id=Cartoon+Classics&t=1753977057&token=dcad43975b6487703b3bfc3189b2d2c1
+#EXTINF:-1 group-title="国际",PBS KET Louisville KY
+https://stream.iptv-search.com/main.php?id=PBS+KET+Louisville+KY+%28WKMJ-TV%29+%28720p%29&t=1753977057&token=84e7a5c5a3d8a9c120f368fea00666f6
+#EXTINF:-1 group-title="国际",PBS KET2
+https://stream.iptv-search.com/main.php?id=PBS+KET2+%28720p%29&t=1753977057&token=e6c8ebcaa75a08e4a8e98a7dcd5540fc
