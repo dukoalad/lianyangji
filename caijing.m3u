@@ -1,8 +1,10 @@
 #EXTM3U
 #EXTINF:-1 group-title="国际",无线新闻
-https://stream.iptv-search.com/main.php?id=TVB%E6%97%A0%E7%BA%BF%E6%96%B0%E9%97%BB&t=1753977057&token=202863f7d4d6f897ed7b9f218e9a1c88
+https://prd-vcache.edge-global.akamai.tvb.com/__cl/slocalr2625/__c/ott_I-NEWS_h264/__op/bks/__f/index.m3u8?hdnea=ip=3.112.236.124~st=1755486039~exp=1758078039~acl=/__cl/slocalr2625/__c/ott_I-NEWS_h264/__op/bks/__f/*~hmac=4496ef1c2a30163c479c6a1bc9e692b3a6719ddc0977faf019f3c537f79c3890&p=3139
+#EXTINF:-1 group-title="国际",台视新闻
+https://stream.iptv-search.com/main.php?id=TW%E5%8F%B0%E8%A7%86%E6%96%B0%E9%97%BB&t=1753977057&token=9e8cf39e0a5a18dabf76b0c08c8e2907
 #EXTINF:-1 group-title="国际",第一财经
-https://stream.iptv-search.com/main.php?id=%E7%AC%AC%E4%B8%80%E8%B4%A2%E7%BB%8F&t=1753977057&token=a834cfae13a05a31942414b656cb1b63
+http://cdn.jdshipin.com/kkxw.php?id=5
 #EXTINF:-1 group-title="国际",东森财经
 https://stream.iptv-search.com/main.php?id=%E4%B8%9C%E6%A3%AE%E8%B4%A2%E7%BB%8F%E6%96%B0%E9%97%BB&t=1753977057&token=5166aae2d6f3b7020011d4c41903ce97
 #EXTINF:-1 group-title="国际",無綫財經資訊台
@@ -16,17 +18,17 @@ https://stream.iptv-search.com/main.php?id=%E5%87%A4%E5%87%B0%E4%B8%AD%E6%96%87&
 #EXTINF:-1 group-title="国际",凤凰资讯
 https://stream.iptv-search.com/main.php?id=%E5%87%A4%E5%87%B0%E8%B5%84%E8%AE%AF&t=1753977057&token=12f29bc8966f25f528a44670dc2842d9
 #EXTINF:-1 group-title="国际",CNN
-https://stream.iptv-search.com/main.php?id=CNN+International&t=1753977057&token=711540c73e113cffc4a1f53cdefde04e
+https://stream.iptv-search.com/main.php?id=CNN+backup&t=1753977057&token=1b6c7a1957a7eaa268a323c54b204fe1
 #EXTINF:-1 group-title="国际",无线名珠
 https://stream.iptv-search.com/main.php?id=TVB%E6%97%A0%E7%BA%BF%E6%98%9F%E6%B2%B3&t=1753977057&token=219ae49de993862d7998a122b749d0c4
-#EXTINF:-1 group-title="国际",NOW 新闻台
-https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/6415665815001/e6d08630-c9fb-458b-8798-e31b4b36c202/6s/master.m3u8?fastly_token=Njg5NTZiMjNfNzJiNTlmY2VmODM2YjVhYmYwZDQ0ODVmMDU4M2QzMmFjZjcyODdiMGU5M2E5OTkxMWY3NmU4MzY3OGI4ZjBjYg%3D%3D
+#EXTINF:-1 group-title="国际",五星体育
+http://cdn.jdshipin.com/kkxw.php?id=10
 #EXTINF:-1 group-title="国际",BBC Travel
 https://stream.iptv-search.com/main.php?id=BBC+Travel&t=1753977057&token=565ff6aee115c07d61b4db31b61bb9a0
 #EXTINF:-1 group-title="国际",BBC Earth
 https://stream.iptv-search.com/main.php?id=BBC+Earth+HD&t=1753977057&token=a2f53c73f832a1f27451058685858627
-#EXTINF:-1 group-title="国际",台视新闻
-https://stream.iptv-search.com/main.php?id=TW%E5%8F%B0%E8%A7%86%E6%96%B0%E9%97%BB&t=1753977057&token=9e8cf39e0a5a18dabf76b0c08c8e2907
+#EXTINF:-1 group-title="国际",BBC Lifestyle
+https://stream.iptv-search.com/main.php?id=BBC+Earth+Lifestyle&t=1753977057&token=b9a39530cd6ce179c0944138fe2a4cbe
 #EXTINF:-1 group-title="国际",TVBS高清
 https://stream.iptv-search.com/main.php?id=TVBS+HD&t=1752825547&token=054e63b280535f97823fbbb8be433e7f
 #EXTINF:-1 group-title="国际",TVBJ1
@@ -35,8 +37,6 @@ https://stream.iptv-search.com/main.php?id=%E7%BF%A1%E7%BF%A0%E5%8F%B0%E5%8C%97%
 https://stream.iptv-search.com/main.php?id=%E7%BF%A1%E7%BF%A0%E5%8F%B0&t=1753977057&token=f4f66ae8412db8b0cf38f718da3a4006
 #EXTINF:-1 group-title="国际",TVB明珠台
 https://stream.iptv-search.com/main.php?id=TVB%E6%98%8E%E7%8F%A0%E5%8F%B0&t=1752825547&token=8197c49bd54b60714cdd219da1c9a2b7
-#EXTINF:-1 group-title="国际",BBC Lifestyle
-https://stream.iptv-search.com/main.php?id=BBC+Earth+Lifestyle&t=1753977057&token=b9a39530cd6ce179c0944138fe2a4cbe
 #EXTINF:-1 group-title="国际",三立新闻
 https://stream.iptv-search.com/main.php?id=%E4%B8%89%E7%AB%8B%E5%8F%B0%E6%B9%BE&t=1753977057&token=0434b979ad4e606265b4174a06227da2
 #EXTINF:-1 group-title="国际",BBC World News
