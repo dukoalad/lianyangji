@@ -1,4 +1,101 @@
 #EXTM3U
+#EXTINF:-1 group-title="CN",CCTV1
+http://218.206.221.78:90/hls/1/index.m3u8
+#EXTINF:-1 group-title="CN",CCTV2
+http://liangxu.lilys.top/CCTV2.php
+#EXTINF:-1 group-title="CN",CCTV2
+http://218.206.221.78:90/hls/2/index.m3u8
+#EXTINF:-1 group-title="CN",CCTV3
+http://218.206.221.78:90/hls/3/index.m3u8
+#EXTINF:-1 group-title="CN",CCTV4
+http://218.206.221.78:90/hls/4/index.m3u8
+#EXTINF:-1 group-title="CN",CCTV5
+http://218.206.221.78:90/hls/5/index.m3u8
+#EXTINF:-1 group-title="CN",CCTV5+
+http://218.206.221.78:90/hls/18/index.m3u8
+#EXTINF:-1 group-title="CN",CCTV6
+http://218.206.221.78:90/hls/6/index.m3u8
+#EXTINF:-1 group-title="CN",CCTV7
+http://218.206.221.78:90/hls/7/index.m3u8
+#EXTINF:-1 group-title="CN",CCTV8
+http://218.206.221.78:90/hls/8/index.m3u8
+#EXTINF:-1 group-title="CN",CCTV9
+http://218.206.221.78:90/hls/9/index.m3u8
+#EXTINF:-1 group-title="CN",CCTV10
+http://218.206.221.78:90/hls/10/index.m3u8
+#EXTINF:-1 group-title="CN",CCTV11
+http://218.206.221.78:90/hls/11/index.m3u8
+#EXTINF:-1 group-title="CN",CCTV12
+http://218.206.221.78:90/hls/12/index.m3u8
+#EXTINF:-1 group-title="CN",CCTV13
+http://218.206.221.78:90/hls/13/index.m3u8
+#EXTINF:-1 group-title="CN",CCTV14
+http://218.206.221.78:90/hls/14/index.m3u8
+#EXTINF:-1 group-title="CN",CCTV15
+http://218.206.221.78:90/hls/15/index.m3u8
+#EXTINF:-1 group-title="CN",CCTV17
+http://218.206.221.78:90/hls/17/index.m3u8
+#EXTINF:-1 group-title="CN",
+#EXTINF:-1 group-title="CN",北京卫视
+http://218.206.221.78:90/hls/24/index.m3u8
+#EXTINF:-1 group-title="CN",东方卫视
+http://218.206.221.78:90/hls/22/index.m3u8
+#EXTINF:-1 group-title="CN",湖南卫视
+http://218.206.221.78:90/hls/34/index.m3u8
+#EXTINF:-1 group-title="CN",浙江卫视
+http://218.206.221.78:90/hls/21/index.m3u8
+#EXTINF:-1 group-title="CN",江苏卫视
+http://218.206.221.78:90/hls/23/index.m3u8
+#EXTINF:-1 group-title="CN",深圳卫视
+http://218.206.221.78:90/hls/35/index.m3u8
+#EXTINF:-1 group-title="CN",河北卫视
+http://218.206.221.78:90/hls/32/index.m3u8
+#EXTINF:-1 group-title="CN",广东卫视
+http://218.206.221.78:90/hls/25/index.m3u8
+#EXTINF:-1 group-title="CN",河南卫视
+http://218.206.221.78:90/hls/20/index.m3u8
+#EXTINF:-1 group-title="CN",黑龙江卫视
+http://218.206.221.78:90/hls/26/index.m3u8
+#EXTINF:-1 group-title="CN",山东卫视
+http://218.206.221.78:90/hls/27/index.m3u8
+#EXTINF:-1 group-title="CN",安徽卫视
+http://218.206.221.78:90/hls/28/index.m3u8
+#EXTINF:-1 group-title="CN",辽宁卫视
+http://218.206.221.78:90/hls/29/index.m3u8
+#EXTINF:-1 group-title="CN",陕西卫视
+http://218.206.221.78:90/hls/30/index.m3u8
+#EXTINF:-1 group-title="CN",贵州卫视
+http://218.206.221.78:90/hls/31/index.m3u8
+#EXTINF:-1 group-title="CN",江西卫视
+http://218.206.221.78:90/hls/33/index.m3u8
+#EXTINF:-1 group-title="CN",四川卫视
+http://218.206.221.78:90/hls/36/index.m3u8
+#EXTINF:-1 group-title="CN",湖北卫视
+http://218.206.221.78:90/hls/37/index.m3u8
+#EXTINF:-1 group-title="CN",云南卫视
+http://218.206.221.78:90/hls/39/index.m3u8
+#EXTINF:-1 group-title="CN",吉林卫视
+http://218.206.221.78:90/hls/41/index.m3u8
+#EXTINF:-1 group-title="CN",东南卫视
+http://218.206.221.78:90/hls/43/index.m3u8
+#EXTINF:-1 group-title="CN",广西卫视
+http://218.206.221.78:90/hls/45/index.m3u8
+#EXTINF:-1 group-title="CN",山西卫视
+http://218.206.221.78:90/hls/46/index.m3u8
+#EXTINF:-1 group-title="CN",海南卫视
+http://218.206.221.78:90/hls/47/index.m3u8
+#EXTINF:-1 group-title="CN",甘肃卫视
+http://218.206.221.78:90/hls/48/index.m3u8
+#EXTINF:-1 group-title="CN",新疆卫视
+http://218.206.221.78:90/hls/50/index.m3u8
+#EXTINF:-1 group-title="CN",西藏卫视
+http://218.206.221.78:90/hls/51/index.m3u8
+#EXTINF:-1 group-title="CN",天津卫视
+http://218.206.221.78:90/hls/78/index.m3u8
+#EXTINF:-1 group-title="CN",重庆卫视
+http://218.206.221.78:90/hls/80/index.m3u8
+#EXTINF:-1 group-title="CN",CETV1
+http://218.206.221.78:90/hls/19/index.m3u8
 #EXTINF:-1 group-title="国际",无线新闻
 https://prd-vcache.edge-global.akamai.tvb.com/__cl/slocalr2625/__c/ott_I-NEWS_h264/__op/bks/__f/index.m3u8?hdnea=ip=3.112.236.124~st=1755486039~exp=1758078039~acl=/__cl/slocalr2625/__c/ott_I-NEWS_h264/__op/bks/__f/*~hmac=4496ef1c2a30163c479c6a1bc9e692b3a6719ddc0977faf019f3c537f79c3890&p=3139
 #EXTINF:-1 group-title="国际",台视新闻
