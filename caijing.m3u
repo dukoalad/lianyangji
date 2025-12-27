@@ -150,3 +150,65 @@ https://stream.iptv-search.com/main.php?id=Cartoon+Classics&t=1753977057&token=d
 https://stream.iptv-search.com/main.php?id=PBS+KET+Louisville+KY+%28WKMJ-TV%29+%28720p%29&t=1753977057&token=84e7a5c5a3d8a9c120f368fea00666f6
 #EXTINF:-1 group-title="国际",PBS KET2
 https://stream.iptv-search.com/main.php?id=PBS+KET2+%28720p%29&t=1753977057&token=e6c8ebcaa75a08e4a8e98a7dcd5540fc
+#EXTINF:-1 group-title="BJLT",CCTV1
+http://123.121.2.44:5003/cctv1.m3u8?token=7375646fdda9833f4c3fe8a7b2604dfd2ec717f5&z=1f4e
+#EXTINF:-1 group-title="BJLT",CCTV-2
+http://123.121.2.44:5003/cctv2.m3u8?token=7375646fdda9833f4c3fe8a7b2604dfd2ec717f5&z=1f4e
+#EXTINF:-1 group-title="BJLT",CCTV-3
+http://123.121.2.44:5003/cctv3.m3u8?token=7375646fdda9833f4c3fe8a7b2604dfd2ec717f5&z=1f4e
+#EXTINF:-1 group-title="BJLT",CCTV-4
+http://123.121.2.44:5003/cctv4.m3u8?token=7375646fdda9833f4c3fe8a7b2604dfd2ec717f5&z=1f4e
+#EXTINF:-1 group-title="BJLT",CCTV5-体育
+http://123.121.2.44:5003/cctv5.m3u8?token=7375646fdda9833f4c3fe8a7b2604dfd2ec717f5&z=1f4e
+#EXTINF:-1 group-title="BJLT",CCTV-6
+http://123.121.2.44:5003/cctv6.m3u8?token=7375646fdda9833f4c3fe8a7b2604dfd2ec717f5&z=1f4e
+#EXTINF:-1 group-title="BJLT",CCTV-7
+http://123.121.2.44:5003/cctv7.m3u8?token=7375646fdda9833f4c3fe8a7b2604dfd2ec717f5&z=1f4e
+#EXTINF:-1 group-title="BJLT",CCTV-8
+http://123.121.2.44:5003/cctv8.m3u8?token=7375646fdda9833f4c3fe8a7b2604dfd2ec717f5&z=1f4e
+#EXTINF:-1 group-title="BJLT",CCTV-9
+http://123.121.2.44:5003/cctv9.m3u8?token=7375646fdda9833f4c3fe8a7b2604dfd2ec717f5&z=1f4e
+#EXTINF:-1 group-title="BJLT",CCTV-10
+http://123.121.2.44:5003/cctv10.m3u8?token=7375646fdda9833f4c3fe8a7b2604dfd2ec717f5&z=1f4e
+#EXTINF:-1 group-title="BJLT",CCTV11-戏曲
+http://123.121.2.44:5003/cctv11.m3u8?token=7375646fdda9833f4c3fe8a7b2604dfd2ec717f5&z=1f4e
+#EXTINF:-1 group-title="BJLT",CCTV-12
+http://123.121.2.44:5003/cctv12.m3u8?token=7375646fdda9833f4c3fe8a7b2604dfd2ec717f5&z=1f4e
+#EXTINF:-1 group-title="BJLT",CCTV13-新闻
+http://123.121.2.44:5003/cctv13.m3u8?token=7375646fdda9833f4c3fe8a7b2604dfd2ec717f5&z=1f4e
+#EXTINF:-1 group-title="BJLT",CCTV-14
+http://123.121.2.44:5003/cctv14.m3u8?token=7375646fdda9833f4c3fe8a7b2604dfd2ec717f5&z=1f4e
+#EXTINF:-1 group-title="BJLT",CCTV15-音乐
+http://123.121.2.44:5003/cctv15.m3u8?token=7375646fdda9833f4c3fe8a7b2604dfd2ec717f5&z=1f4e
+#EXTINF:-1 group-title="BJLT",BTV北京卫视
+http://123.121.2.44:5003/bjws.m3u8?token=7375646fdda9833f4c3fe8a7b2604dfd2ec717f5&z=1f4e
+#EXTINF:-1 group-title="BJLT",天津卫视
+http://123.121.2.44:5003/tjws.m3u8?token=7375646fdda9833f4c3fe8a7b2604dfd2ec717f5&z=1f4e
+#EXTINF:-1 group-title="BJLT",安徽卫视
+http://123.121.2.44:5003/ahws.m3u8?token=7375646fdda9833f4c3fe8a7b2604dfd2ec717f5&z=1f4e
+#EXTINF:-1 group-title="BJLT",山东卫视
+http://123.121.2.44:5003/sdws.m3u8?token=7375646fdda9833f4c3fe8a7b2604dfd2ec717f5&z=1f4e
+#EXTINF:-1 group-title="BJLT",
+广东卫视
+http://123.121.2.44:5003/gdws.m3u8?token=7375646fdda9833f4c3fe8a7b2604dfd2ec717f5&z=1f4e
+#EXTINF:-1 group-title="BJLT",江苏卫视
+http://123.121.2.44:5003/jsws.m3u8?token=7375646fdda9833f4c3fe8a7b2604dfd2ec717f5&z=1f4e
+#EXTINF:-1 group-title="BJLT",河北卫视
+http://123.121.2.44:5003/hebeiws.m3u8?token=7375646fdda9833f4c3fe8a7b2604dfd2ec717f5&z=1f4e
+#EXTINF:-1 group-title="BJLT",浙江卫视
+http://123.121.2.44:5003/zjws.m3u8?token=7375646fdda9833f4c3fe8a7b2604dfd2ec717f5&z=1f4e
+#EXTINF:-1 group-title="BJLT",湖北卫视
+http://123.121.2.44:5003/hbws.m3u8?token=7375646fdda9833f4c3fe8a7b2604dfd2ec717f5&z=1f4e
+#EXTINF:-1 group-title="BJLT",湖南卫视
+http://123.121.2.44:5003/hunanws.m3u8?token=7375646fdda9833f4c3fe8a7b2604dfd2ec717f5&z=1f4e
+#EXTINF:-1 group-title="BJLT",贵州卫视
+http://123.121.2.44:5003/gzws.m3u8?token=7375646fdda9833f4c3fe8a7b2604dfd2ec717f5&z=1f4e
+#EXTINF:-1 group-title="BJLT",辽宁卫视
+http://123.121.2.44:5003/lnws.m3u8?token=7375646fdda9833f4c3fe8a7b2604dfd2ec717f5&z=1f4e
+#EXTINF:-1 group-title="BJLT",重庆卫视
+http://123.121.2.44:5003/cqws.m3u8?token=7375646fdda9833f4c3fe8a7b2604dfd2ec717f5&z=1f4e
+#EXTINF:-1 group-title="BJLT",河南卫视
+http://123.121.2.44:5003/hnws.m3u8?token=7375646fdda9833f4c3fe8a7b2604dfd2ec717f5&z=1f4e
+#EXTINF:-1 group-title="BJLT",黑龙江卫视
+http://123.121.2.44:5003/hljws.m3u8?token=7375646fdda9833f4c3fe8a7b2604dfd2ec717f5&z=1f4e
+#EXTINF:-1 group-title="BJLT",
