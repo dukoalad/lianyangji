@@ -1,0 +1,2 @@
+proxies:
+  - {name: SGtest|onlytest, server: sg.10inr.com, port: 22308, type: vmess, uuid: 5b4d20dc-f298-4e18-e12e-b406aaaf6050, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
